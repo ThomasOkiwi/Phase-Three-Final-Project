@@ -1,5 +1,6 @@
 # SyriaTel Company Customers
-
+## Presentation Slides:🗝
+ For Presentation Slides, Click Here: https://prezi.com/view/hnCj9H89pHUTlcec8CmP/
 ## Overview
 SyraTel Project focuses on analyzing the SyraTel dataset to derive useful insights that may help  telecommunucation operations team, marketing team and customer service team to make data driven decissions; thus minimising risk of revenue loss throught customers' churn.
 ## Business and Data Understanding
