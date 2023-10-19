@@ -10,13 +10,14 @@ The primary stakeholders for this project are individuals and teams within SyraT
 The SyraTel dataset was chosen due to its relevance to the telecommunications industry. It includes information about customer interactions, service usage, and other key metrics. This dataset is crucial for understanding customer behavior, predicting trends, and optimizing business processes.
 
 ### Modeling
-The modeling phase involves various analytical techniques applied to the dataset. The Jupyter Notebook in this repository contains the detailed code and implementation. 
+The modeling phase involves various analytical techniques applied to the dataset. The Jupyter Notebook in this repository contains the detailed code and implementation. Logistic Regression was used as the firsrt model. Accuracy of this model was 85% which was satifactory but not the best. We then introduced other model to get better performace.
 
 ![image](https://github.com/ThomasOkiwi/Phase-Three-Final-Project/assets/133016687/3a317cc2-c274-416f-80e4-ad059827c246)
 
 
 ### Model Evaluation
-The evaluation section provides a comprehensive review of the model performance and the effectiveness of the analysis. Data was testes againd serveral models including : Logist Regressin, Random Forest, Decision Tree, K-Nearest Neighbour and Ensembel Method. Random Forest emerged as the best Model for the detaset with: accuracy- 97%, precision=97% and  recall =97%. Additianally, we used ynthetic Minority Oversampling Technique ()
+The evaluation section provides a comprehensive review of the model performance and the effectiveness of the analysis. Data was testes againd serveral models including : 
+Logist Regressin, Random Forest, Decision Tree, K-Nearest Neighbour and Ensembel Method. Random Forest emerged as the best Model for the detaset with: accuracy- 97%, precision=97% and  recall =97%. Additianally, we used ynthetic Minority Oversampling Technique (SNOTE) to Oversample the  minority data "True", the customers who churned.
 
 ![image](https://github.com/ThomasOkiwi/Phase-Three-Final-Project/assets/133016687/70544c54-14f9-497a-a1f6-78e700680442)
 
